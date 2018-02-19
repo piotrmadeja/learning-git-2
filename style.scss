@@ -2,6 +2,7 @@
     box-sizing: border-box;
   }
   
+
   body {
     margin: 0 auto;
     max-width: 1200px;
@@ -22,6 +23,7 @@
   }
 }
 
+
   .lyrics {
     background-color: lightgreen;
     border: 2px solid black;
@@ -30,6 +32,7 @@
     font-family: sans-serif;
 
    p:first-child {
+
     margin: 0;
     padding-top: 60px;
   }
@@ -37,9 +40,11 @@
   p {
     padding: 15px 0;
     padding-left: 38%;
+
     line-height: 19px;
     text-align: justify;
   }
 }
   
+
   
