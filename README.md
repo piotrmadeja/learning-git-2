@@ -1,1 +1,1 @@
-# learning-git-2
+https://piotrmadeja.github.io/learning-git-2/
