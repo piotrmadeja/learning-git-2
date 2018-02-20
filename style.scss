@@ -2,19 +2,22 @@
     box-sizing: border-box;
   }
   
-body {
-  margin: 0 auto;
-  max-width: 1200px;
-}
+
+
+  body {
+    margin: 0 auto;
+    max-width: 1200px;
+  }
   
-.song-title {
-  background-color : lightblue;
-  border: 2px solid black;
-  border-bottom: none;
-  height: 9vh;
-  font-family: fantasy;
+  .song-title {
+    background-color : lightblue;
+    border: 2px solid black;
+    border-bottom: none;
+    height: 9vh;
+    font-family: fantasy;
   
-  h1  {
+  h1 {
+
     margin: 0;
     text-align: center;
     padding: 10px 0;
@@ -22,14 +25,17 @@ body {
   }
 }
 
-.lyrics {
-  background-color: lightgreen;
-  border: 2px solid black;
-  height: 91vh;
-  text-align: center;
-  font-family: sans-serif;
 
-  p:first-child {
+
+  .lyrics {
+    background-color: lightgreen;
+    border: 2px solid black;
+    height: 91vh;
+    text-align: center;
+    font-family: sans-serif;
+
+   p:first-child {
+
     margin: 0;
     padding-top: 60px;
   }
@@ -37,8 +43,13 @@ body {
   p {
     padding: 15px 0;
     padding-left: 38%;
-    line-height: 20px;
+
+
+    line-height: 19px;
     text-align: justify;
   }
-}  
+}
+  
+
+
   
