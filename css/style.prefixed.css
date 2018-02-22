@@ -30,11 +30,6 @@ body {
   font-family: sans-serif;
 }
 
-.lyrics p:first-child {
-  margin: 0;
-  padding-top: 60px;
-}
-
 .lyrics p {
   padding: 15px 0;
   padding-left: 38%;
@@ -43,5 +38,8 @@ body {
 }
 
 .test {
-  color: red;
+  color: yellow;
+  font-size: 111px;
+  font-weight: 300px;
 }
+/*# sourceMappingURL=style.prefixed.css.map */
