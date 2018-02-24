@@ -43,7 +43,9 @@ body {
 }
   
 .test {
- color: green;
+ display: flex;
+ flex-wrap: wrap;
+ color: white;
  font-size: 122px;
  font-weight: 311px;
  text-transform: lowercase;

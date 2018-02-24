@@ -38,11 +38,7 @@ body {
 }
 
 .test {
-  display: -ms-flexbox;
-  display: flex;
-  -ms-flex-wrap: wrap;
-      flex-wrap: wrap;
-  color: white;
+  color: blue;
   font-size: 122px;
   font-weight: 311px;
   text-transform: lowercase;
